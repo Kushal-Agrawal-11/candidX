@@ -1,0 +1,16 @@
+/* Home.module.css */
+
+/* Styles for the carousel */
+.carousel-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Styles for the legend */
+.legend {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    color: #333;
+}
